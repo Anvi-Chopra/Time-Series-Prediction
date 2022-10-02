@@ -20,3 +20,7 @@ Road dataset where the length of road is divided into approx. 100 subsections. T
 ## Development
 
 The project is built in Python using ARIMA. The task was to predict values of the 10th year for all subsections for parameters 9, 10, 11, 12 and 13. Finally, compare the predicted values with the actual given values and calculate the RMSE of the model. 
+
+## Output
+
+![image](https://user-images.githubusercontent.com/105603559/193466457-9650bfeb-6b8d-4b9e-be2e-89b3e75d28b3.png)
