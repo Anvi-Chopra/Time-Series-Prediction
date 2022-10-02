@@ -23,4 +23,5 @@ The project is built in Python using ARIMA. The task was to predict values of th
 
 ## Output
 
+A plot of one parameter to show the variation between predicted and actual values.
 ![image](https://user-images.githubusercontent.com/105603559/193466457-9650bfeb-6b8d-4b9e-be2e-89b3e75d28b3.png)
